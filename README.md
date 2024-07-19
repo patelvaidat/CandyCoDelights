@@ -1,5 +1,5 @@
 # CandyCoDelights
-
+![](https://s5.ezgif.com/tmp/ezgif-5-d1ba3ed0d6.gif)
 Welcome to CandyCoDelights, where sweetness meets code! This repository houses everything you need to know about our delightful candy company. From our diverse product catalog to our cutting-edge candy sorting algorithms, explore the intersection of confectionery and technology.
 
 ## Features
@@ -21,4 +21,18 @@ Welcome to CandyCoDelights, where sweetness meets code! This repository houses e
 
 ## Contributors
 
-- [Vaidat Patel](https://github.com/patelvaidat]
+- [Vaidat Patel] (https://github.com/patelvaidat]
+
+
+# CandyCoDelights Documentation
+
+Welcome to the CandyCoDelights documentation! Here you'll find all the information you need to understand and contribute to our sweet project.
+
+## Contents
+
+- [Introduction](introduction.md)
+- [Product Catalog](product_catalog.md)
+- [Technology Overview](technology_overview.md)
+- [Contribution Guide](contribution_guide.md)
+
+
