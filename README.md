@@ -30,9 +30,9 @@ Welcome to the CandyCoDelights documentation! Here you'll find all the informati
 
 ## Contents
 
-- [Introduction](introduction.md)
-- [Product Catalog](product_catalog.md)
-- [Technology Overview](technology_overview.md)
-- [Contribution Guide](contribution_guide.md)
+- [Introduction](/docs/introduction.md)
+- [Product Catalog](/docs/product_catalog.md)
+- [Technology Overview](/docs/technology_overview.md)
+- [Contribution Guide](/docs/contribution_guide.md)
 
 
